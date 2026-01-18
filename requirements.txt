@@ -1,0 +1,8 @@
+PyMuPDF>=1.23.0
+fonttools>=4.44.0
+Pillow>=10.0.0
+pdf2image>=1.16.0
+Jinja2>=3.1.0
+numpy>=1.24.0
+pypdf>=3.0.0
+
